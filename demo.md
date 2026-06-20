@@ -2,11 +2,4 @@
 
 Демонстраційний ролик роботи програмної системи **SportManager**.
 
-**Посилання на ролик:** _додати посилання (YouTube / Google Drive)_
-
-<!--
-Як додати:
-1. Завантаж відео на YouTube (доступ «за посиланням / unlisted») або Google Drive.
-2. Встав сюди посилання замість тексту вище, наприклад:
-   **Посилання на ролик:** https://youtu.be/XXXXXXXXXXX
--->
+**Посилання на ролик:** https://drive.google.com/drive/u/2/folders/12BHEyYbLPGLMOXFgI7upS3mJMjwCH7Ah
